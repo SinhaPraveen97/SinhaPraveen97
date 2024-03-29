@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Sinha</h1>
 <h3 align="center">A passionate Principal Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
+<img align="right" alt="coding" width="400" src="https://github.com/SinhaPraveen97/SinhaPraveen97/blob/main/animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhapraveen97&label=Profile%20views&color=0e75b6&style=flat" alt="sinhapraveen97" /> </p>
 
 - 🔭 I’m currently working on **Dell Premier**
